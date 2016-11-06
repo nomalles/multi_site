@@ -211,6 +211,7 @@ body {
 }
 
 .image_off, #central:hover .image_on{
+  top: 50%;
    display:none
 }
 .image_on, #central:hover .image_off{
