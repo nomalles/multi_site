@@ -29,6 +29,12 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
+  $(".lineup").click(function(){
+      $('#lineup_row').toggle();
+  });
+});
+
+$(document).ready(function () {
   $(".contact").click(function(){
       $('.contacts, #x-contact').toggle();
   });
