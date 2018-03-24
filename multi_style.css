@@ -98,7 +98,7 @@ body {
 #lineup_row {
   position: absolute;
   padding: 55px;
-    z-index: 905;
+    z-index: 910;
     top: 80;
     overflow: scroll;
     height: 100%;
@@ -121,7 +121,7 @@ left: 4%;
   font-size: calc(6px + 1vw);
   font-family: Open Sans, sans-serif;
   font-weight: bold;
-  z-index: 905;
+  z-index: 910;
 }
 #lineup2 {
 
@@ -129,7 +129,7 @@ left: 4%;
   font-size: calc(6px + 1vw);
   font-family: Open Sans, sans-serif;
   font-weight: bold;
-  z-index: 905;
+  z-index: 910;
 }
 #lineup3 {
 
@@ -137,7 +137,7 @@ left: 4%;
   font-size: calc(6px + 1vw);
   font-family: Open Sans, sans-serif;
   font-weight: bold;
-  z-index: 905;
+  z-index: 910;
 }
 .title {
   color: rgb(0,255,0);
@@ -158,47 +158,14 @@ left: 4%;
   font-size: 120%;
   font-size: calc(12px + 1vw);
   font-weight: bold;
-  z-index: 905;
+  z-index: 910;
 }
 .lineup:hover {
   border-top: 4px solid #000;
   cursor: pointer;
   color: rgb(255, 0, 0);
 }
-#lineup_row {
-  margin: auto;
-  position: absolute;
-  padding: 55px;
-    z-index: 905;
-    top: 80;
-    overflow: scroll;
-    height: 100%;
-    pointer-events:none;
-}
-#lineup1 {
 
-  color:black;
-  font-size: calc(6px + 1vw);
-  font-family: Open Sans, sans-serif;
-  font-weight: bold;
-  z-index: 905;
-}
-#lineup2 {
-
-  color:black;
-  font-size: calc(6px + 1vw);
-  font-family: Open Sans, sans-serif;
-  font-weight: bold;
-  z-index: 905;
-}
-#lineup3 {
-
-  color:black;
-  font-size: calc(6px + 1vw);
-  font-family: Open Sans, sans-serif;
-  font-weight: bold;
-  z-index: 905;
-}
 .title {
   color: rgb(0,255,0);
   font-size: calc(12px + 1.5vw);
